@@ -1,0 +1,6 @@
+vk-api==11.9.9
+networkx==3.3
+pyvis==0.3.2
+rich==13.7.1
+folium==0.17.0
+python-dotenv==1.0.1
